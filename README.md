@@ -4,7 +4,7 @@
 #### Running the project Locally
 The project can be run locally by following these instructions:
 
-Note:  You will need to input your own AWS credentials in `app.js`.
+Note:  You will need to input your own AWS credentials in `app.js`.  You will also need to replace the signalling channel with your own AWS channels
 
 NodeJS version 8+ is required.
 
