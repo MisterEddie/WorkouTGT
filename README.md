@@ -14,7 +14,7 @@ The project can be run locally by following these instructions:
 1. Open the homepage at `http://0.0.0.0:80`
 
 
-The project will also be accessible via an EC2 instance at: http://ec2-18-215-170-53.compute-1.amazonaws.com/ until April 3, 2020.
+The project will also be accessible via an EC2 instance at: https://ec2-18-215-170-53.compute-1.amazonaws.com/ until April 3, 2020.
 
 ## License
 
